@@ -1,5 +1,5 @@
 package com.generation.booking_service.DTO;
 
-public record PasseggeroDTO()
+public record BigliettoDTO()
 {
 }
